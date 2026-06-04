@@ -14,39 +14,6 @@ const PROJECTS = [
     border: "hover:border-cyan-500/50",
     iconColor: "text-cyan-400"
   },
-  {
-    id: 2,
-    title: "Sistema de Inventario",
-    description: "Gestión de productos con base de datos en tiempo real.",
-    tags: ["Node.js", "Firebase", "JS"],
-    link: "#", // Reemplaza con el link real
-    icon: Database,
-    glow: "group-hover:bg-violet-500/10",
-    border: "hover:border-violet-500/50",
-    iconColor: "text-violet-400"
-  },
-  {
-    id: 3,
-    title: "Landing Page",
-    description: "Diseño UI/UX responsivo para una startup tecnológica.",
-    tags: ["HTML", "CSS", "Figma"],
-    link: "#", // Reemplaza con el link real
-    icon: LayoutGrid,
-    glow: "group-hover:bg-emerald-500/10",
-    border: "hover:border-emerald-500/50",
-    iconColor: "text-emerald-400"
-  },
-  {
-    id: 4,
-    title: "Algoritmo de Ordenamiento",
-    description: "Visualizador interactivo de estructuras de datos.",
-    tags: ["Python", "Algorithms"],
-    link: "#", // Reemplaza con el link real
-    icon: Code2,
-    glow: "group-hover:bg-fuchsia-500/10",
-    border: "hover:border-fuchsia-500/50",
-    iconColor: "text-fuchsia-400"
-  }
 ];
 
 export default function PortfolioHub() {
