@@ -8,7 +8,7 @@ const PROJECTS = [
     title: "CryptoVision",
     description: "Terminal institucional de inteligencia cripto y simulación HFT.",
     tags: ["React 19", "Tailwind", "APIs"],
-    link: "PON_AQUI_TU_LINK_DE_NETLIFY",
+    link: "https://cryptovisionanahuacproyecto.netlify.app/",
     icon: Terminal,
     glow: "group-hover:bg-cyan-500/10",
     border: "hover:border-cyan-500/50",
